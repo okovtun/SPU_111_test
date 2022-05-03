@@ -1,8 +1,8 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 void main()
 {
 	setlocale(LC_ALL, "Russian");
-	cout << "Ïðèâåò Git" << endl;
+	cout << "ÐŸÑ€Ð¸Ð²ÐµÑ‚ Git" << endl;
 }
